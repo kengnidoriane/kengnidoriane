@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-## I'm Keng Nidoriane
+## I'm doriane
 
 Driven by passion and professionalism, I build impactful software solutions and share my journey with the global tech community.
 
@@ -25,9 +25,9 @@ Driven by passion and professionalism, I build impactful software solutions and 
 
 ### 📫 Contact & Personal Details
 
-- **Email:** keng.nidoriane@gmail.com
+- **Email:** dorianekengni@gmail.com
 - **LinkedIn:** [linkedin.com/in/kengnidoriane](https://linkedin.com/in/kengnidoriane)
-- **Location:** Paris, France
+  
 
 Curious about my work or want to collaborate? Feel free to contact me or check out my latest repositories.
 
